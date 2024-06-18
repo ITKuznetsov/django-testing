@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'books',
+    'index',
 
     'debug_toolbar',
     'rest_framework',
