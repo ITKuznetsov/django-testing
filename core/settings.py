@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'index',
+    'snippets',
 
     'debug_toolbar',
     'rest_framework',
